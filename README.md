@@ -4,12 +4,30 @@
 
 **SQL · Python · Power BI · Predictive Analytics · Data Engineering**
 
-I work at the intersection of data engineering, analytics, and business intelligence—turning complex data into accurate, accessible, and actionable insights.
+I turn complex data into accurate, accessible, and actionable business insights through analytics, automation, data modeling, and business-intelligence reporting.
 
 - 📍 St. Louis, Missouri
 - 💼 Data Analyst at Honeywell
 - 🎓 M.S. in Information Systems, Saint Louis University
-- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/jashvanthi-priyanka)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jashvanthi-priyanka)
+
+---
+
+## Featured Projects
+
+### [SQL Business KPI Case Study](https://github.com/JashvanthiPriyanka2910/sql-business-kpi-case-study)
+
+A complete SQLite analytics project demonstrating relational schema design, synthetic data generation, data-quality validation, KPI development, profitability analysis, and executive reporting.
+
+**Highlights:** 17 completed orders, $7,622.33 net revenue, $3,090.33 gross profit, 40.54% gross margin, and 41.67% repeat-customer rate.
+
+**Skills:** `SQL` `SQLite` `Data Quality` `CTEs` `Joins` `KPI Analysis` `Business Insights`
+
+### [Express Product API](https://github.com/JashvanthiPriyanka2910/fullstack-products-api)
+
+A documented Express.js REST API that serves structured product data from JSON and demonstrates backend routing, API fundamentals, and organized project documentation.
+
+**Skills:** `Node.js` `Express` `REST API` `JavaScript` `JSON`
 
 ---
 
@@ -26,7 +44,7 @@ I have experience with:
 - Working with industrial, enterprise, and healthcare-related data
 - Translating business requirements into practical data solutions
 
-Before Honeywell, I progressed from Data Analyst Intern to Senior Data Analyst at Stonedge Technologies and Robotics. My work included reporting automation, forecasting, and scalable analytics practices.
+Before Honeywell, I progressed from Data Analyst Intern to Senior Data Analyst at Stonedge Technologies and Robotics, contributing to reporting automation, forecasting workflows, and scalable analytics practices.
 
 ---
 
@@ -44,31 +62,9 @@ Before Honeywell, I progressed from Data Analyst Intern to Senior Data Analyst a
 
 `Predictive Analytics` `Forecasting` `Classification` `Model Evaluation` `NLP`
 
-### Additional Development Experience
+### Development
 
 `JavaScript` `Node.js` `Express` `MongoDB` `React` `REST APIs` `Jest`
-
----
-
-## Portfolio Focus
-
-I am currently building and documenting portfolio projects in:
-
-- Industrial predictive maintenance
-- Healthcare operations analytics
-- SQL-based business KPI analysis
-- NLP-based feedback intelligence
-- Reproducible Python and machine-learning workflows
-
-> Portfolio projects use public or synthetic data. Employer code, internal systems, customer information, and confidential data are not shared.
-
----
-
-## Graduate Coursework
-
-My GitHub also contains graduate coursework in web application development, including JavaScript, Node.js, Express, React, APIs, MongoDB concepts, and testing.
-
-These repositories are being reviewed and improved with clearer documentation, reproducible setup instructions, screenshots, and accurate academic attribution.
 
 ---
 
@@ -98,6 +94,12 @@ Saint Louis University
 
 **Bachelor's Degree in Computer Science**  
 Jawaharlal Nehru Technological University
+
+---
+
+## Responsible Portfolio Use
+
+Portfolio projects use public or synthetic data. Employer code, internal systems, customer information, and confidential data are not shared.
 
 ---
 
