@@ -15,6 +15,14 @@ I turn complex data into accurate, accessible, and actionable business insights 
 
 ## Featured Projects
 
+### [Python Customer Churn Analysis](https://github.com/JashvanthiPriyanka2910/python-customer-churn-analysis)
+
+An end-to-end Python analytics case study using 800 synthetic customer records to demonstrate data-quality assessment, customer segmentation, visualization, and interpretable churn modeling.
+
+**Highlights:** 20.38% observed churn rate, segment-level churn analysis, reproducible preprocessing pipeline, logistic regression, and 0.8237 ROC AUC.
+
+**Skills:** `Python` `pandas` `Matplotlib` `scikit-learn` `Data Cleaning` `EDA` `Classification` `Model Evaluation`
+
 ### [SQL Business KPI Case Study](https://github.com/JashvanthiPriyanka2910/sql-business-kpi-case-study)
 
 A complete SQLite analytics project demonstrating relational schema design, synthetic data generation, data-quality validation, KPI development, profitability analysis, and executive reporting.
